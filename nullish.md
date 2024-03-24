@@ -1,7 +1,7 @@
                            Nullish
 
 Nullish operatore chaptan o'ngga qarab oqiydi. null yoki undifinedga tekshiradi.
-birinchi kelgan true qiymatni qaytaradi, agar tru qiymat bolmasa ohirgisini qaytaradi
+birinchi kelgan true qiymatni qaytaradi, agar true qiymat bolmasa ohirgisini qaytaradi
 
 let m;
 let n = null;
