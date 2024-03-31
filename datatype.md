@@ -3,7 +3,7 @@
 
 
 javascriptda 8 ta data type mavjud 
-ular: string, number, boolean, NaN, undifined,bigint, symbl, object.
+ular: string, number, boolean, null, undifined,bigint, symbl, object.
 string - 'hello';
 number - 123;
 boolean - true,false;
