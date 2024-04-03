@@ -8,6 +8,8 @@ Massiv elementlari noldan boshlab raqamlangan.
 
 Biz elementni kvadrat qavs ichida raqami bo'yicha olishimiz mumkin:
 
+array 0 dan bowlab sanaladi
+
 let fruits = ["Apple", "Orange", "Plum"];
 
 alert( fruits[0] ); // Apple
