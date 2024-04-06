@@ -1,0 +1,1 @@
+                           itarables(takrorlanuvchilar)
