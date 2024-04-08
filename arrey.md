@@ -1,8 +1,5 @@
                                         Arrey
-
-
-Ob'ektlar kalitli qiymatlar to'plamini saqlashga imkon beradi.
-
+                                        
 let fruits = ["Apple", "Orange", "Plum"];
 Massiv elementlari noldan boshlab raqamlangan.
 

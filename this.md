@@ -1,6 +1,13 @@
                                        this
 
 this - qayerda ishlatilishiga qarab xar hil qiymatlarga ega bo’ladi.
+this = context;
+let person ={
+    name: "Sayfiddin",
+    getName: function () {
+        return {this, name: this.name};
+    } 
+}
 1. Ya'ni browserda [window] ga teng
 
 <!-- console.log(this) -->
