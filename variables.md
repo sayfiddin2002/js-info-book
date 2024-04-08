@@ -1,5 +1,7 @@
                            Variables (o'zgaruvchilar)
-Javascriptda 3 ta o'zgaruvchi mavjud, ular: let, var, const;
+Javascriptda 3 ta o'zgaruvchini elon qiladigan kalit soz mavjud,
+
+ular: let, var, const;
 
 var - function-scope. hostingda ishlaydi lekin undifined qaytaradi.
 bir hil nom bilan qayta elon qilinsa ishlaydi.
