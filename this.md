@@ -8,6 +8,7 @@ let person ={
         return {this, name: this.name};
     } 
 }
+
 1. Ya'ni browserda [window] ga teng
 
 <!-- console.log(this) -->
